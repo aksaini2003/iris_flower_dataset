@@ -95,6 +95,14 @@ Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/dataset
       scikit-learn>=1.0
       matplotlib>=3.4.0
       seaborn>=0.11.0
+  ## Usage
+    jupyter notebook Iris_Classification_Analysis.ipynb
+
+  ## Future Work 
+      Implement data augmentation for better generalisation
+      Add neural network implementation
+      Create a Flask API for predictions
+      Develop a comparative visualisation dashboard
 
 
       
